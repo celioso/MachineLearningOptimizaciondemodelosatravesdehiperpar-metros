@@ -1,2 +1,1 @@
-# MachineLearningOptimizaciondemodelosatravesdehiperpar-metros
-Machine Learning Optimización de modelos a través de hiperparámetros
+# Machine Learning Optimización de modelos a través de hiperparámetros
