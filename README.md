@@ -23,3 +23,19 @@ En esta aula, aprendimos:
 ### Proyecto del aula anterior
 
 Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1837-Machine-Learning-parte-1/archive/refs/heads/1837-aula1.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
+
+### Haga lo que hicimos en aula
+
+Llegó el momento de que tú mismo ejecutes todos los pasos que hemos realizado durante esta aula. Si ya lo has hecho, ¡excelente!. Si no, es importante que realices lo que enseñé en los videos para continuar con la próxima aula.
+
+### Lo que aprendimos
+
+En esta aula, aprendimos:
+
+- A definir los elementos mínimos en un árbol de decisión;
+- A utilizar **min_samples_leaf** para el entrenamiento;
+- Qué es **corr** de pandas.
+
+### Proyecto del aula anterior
+
+Si lo desea, puede descargar [aquí](https://github.com/alura-es-cursos/1837-Machine-Learning-parte-1/archive/refs/heads/1837-aula2.zip "aquí") el proyecto del curso en el punto donde paramos la clase anterior.
